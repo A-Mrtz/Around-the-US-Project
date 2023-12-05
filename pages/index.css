@@ -5,3 +5,53 @@
 @import url(../blocks/profile.css);
 @import url(../blocks/cards.css);
 @import url(../blocks/footer.css);
+@media screen and (max-width:600px) {
+    .profile{
+      flex-direction: column;
+    }
+    .profile__image{
+      margin: 0;
+    }
+    .profile__info{
+        display: flex;
+        flex-wrap: wrap;
+        width: 100%;
+        justify-content: center;
+        padding-left: 62px;
+        padding-right: 62px;
+        margin-top: 26.25px;
+    }
+    .profile__description{
+      width: 100%;
+      color: #FFF;
+  text-align: center;
+  font-family: Inter;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top:14px;
+  margin-bottom: 36px;
+    }
+    .profile__edit-button{
+      width: 18px;
+      height: 18px;
+      margin-left: 10px;
+    }
+    .profile__add-button{
+      margin: 0;
+      width: 282px;
+    }
+    .profile__name{
+      color: #FFF;
+  text-align: center;
+  font-family: Inter;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+    }
+  } 
+@media screen and (min-width:600px) {
+ 
+}
