@@ -13,8 +13,8 @@
   }
 
   .header__logo{
-    width: 126px;
-    height: 24px;
+  width: 126px;
+  height: 24px;
    }
 
     .profile{
@@ -26,6 +26,7 @@
     .profile__image{
       margin: 0;
     }
+
     .profile__info{
         display: flex;
         flex-wrap: wrap;
@@ -36,6 +37,7 @@
         margin-bottom: 36px;
         row-gap: 0;
     }
+
     .profile__description{
       width: 100%;
       color: #FFF;
@@ -48,15 +50,18 @@
     margin-top:14px;
     height: 14px;
     }
+
     .profile__edit-button{
       width: 18px;
       height: 18px;
       margin-left: 10px;
     }
+
     .profile__add-button{
       margin: 0;
       width: 282px;
     }
+
     .profile__name{
       color: #FFF;
     text-align: center;
