@@ -2,13 +2,13 @@
 
 ### Overview  
 
-* Intro  
+* Description 
 * Figma  
 * Images  
   
-**Intro**
+**Description**
   
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
+This is my first project working with Figma and being able to fully delve into what I've learned previously. This project contains elements of Media Queries, Grids, Flex elements and a Responisve Design.
   
 **Figma**  
   
