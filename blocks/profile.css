@@ -1,7 +1,7 @@
 .profile {
   display: flex;
   align-items: center;
-  padding-top: 40px;
+  margin-top: 40px;
 }
 
 .profile__info {
@@ -10,13 +10,14 @@
     "title button"
     "description description";
   grid-template-columns: minmax(auto, 373px) auto;
+  row-gap: 7px;
 }
 
 .profile__image {
   width: 120px;
   height: 120px;
   border-radius: 50%;
-  object-fit: center;
+  object-fit: contain;
   background-position: center;
   margin-right: 30px;
 }
@@ -28,6 +29,7 @@
   font-style: normal;
   font-weight: 500;
   line-height: 48px;
+  width: 373px;
   grid-area: title;
   margin: 0;
 }
@@ -39,6 +41,9 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
   grid-area: description;
   margin: 0;
 }
@@ -67,7 +72,7 @@
   height: 50px;
   width: 150px;
   border: solid white 2px;
-  margin-left: auto;
+  margin-left:auto;
   padding: 0;
 }
 
