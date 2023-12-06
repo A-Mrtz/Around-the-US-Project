@@ -15,7 +15,11 @@ This is my first project working with Figma and being able to fully delve into w
 * [Link to the project on Figma](https://www.figma.com/file/ii4xxsJ0ghevUOcssTlHZv/Sprint-3%3A-Around-the-US?node-id=0%3A1)  
   
 **Images**  
-  
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-  
-Good luck and have fun!
+  Full Page View
+![alt text](./images/demo/Full%20Screen.png)
+
+Mid-transition View
+![alt text](./images/demo/Mid-size.png)
+
+Mobile View
+![alt text](./images/demo/Mobile.png)
