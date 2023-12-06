@@ -6,3 +6,23 @@
   width: 173px;
   height: 33px;
 }
+
+@media screen and (max-width:596px) {
+
+.header{
+  margin-left: 27px;
+  margin-top: 28px;
+}
+
+.header__logo{
+  width: 126px;
+  height: 24px;
+}
+}
+
+@media screen and (min-width:597px) and (max-width:895px) {
+  .header{
+    margin-left: 27px;
+    margin-top: 28px;
+  }
+}

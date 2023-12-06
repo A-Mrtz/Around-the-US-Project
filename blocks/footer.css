@@ -15,3 +15,17 @@
     line-height: normal;
     margin: 0;
 }
+
+@media screen and (max-width:596px) {
+  .footer{
+    margin-top: 48px;
+    margin-bottom: 36px;
+    margin-left: 19px;
+  }
+
+  .footer__text{
+    width: 282px;
+    height: 14px;
+    font-size: 14px;
+  }
+}
