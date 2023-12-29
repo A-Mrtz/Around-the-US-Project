@@ -74,6 +74,7 @@
   border: solid white 2px;
   margin-left:auto;
   padding: 0;
+  border-radius: 10px;
 }
 
 .profile__add-button:hover{
@@ -83,7 +84,6 @@
 @media screen and (max-width:596px) {
   .profile{
     flex-direction:column;
-    height:286px;
     margin-top:42px;
   }
 
@@ -95,7 +95,6 @@
     display: flex;
     flex-wrap: wrap;
     width: 282px;
-    height: 50px;
     justify-content: center;
     margin-top: 30px;
     margin-bottom: 36px;
@@ -107,7 +106,6 @@
     text-align: center;
     font-size: 14px;
     margin-top:14px;
-    height: 14px;
   }
 
   .profile__edit-button{
@@ -125,7 +123,6 @@
     text-align: center;
     font-size: 22px;
     width: 196px;
-    height: 22px;
   }
 }
 

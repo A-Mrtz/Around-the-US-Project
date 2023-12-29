@@ -1,12 +1,11 @@
 .footer{
-    display:flex;
+    display: flex;
     margin-top: 67px;
     margin-bottom: 60px;
 }
 
 .footer__text{
     width: 318px;
-    height: 18px;
     color: #545454;
     font-family: Inter;
     font-size: 18px;
@@ -25,7 +24,6 @@
 
   .footer__text{
     width: 282px;
-    height: 14px;
     font-size: 14px;
   }
 }
