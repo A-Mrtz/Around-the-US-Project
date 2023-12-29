@@ -72,9 +72,9 @@
   height: 50px;
   width: 150px;
   border: solid white 2px;
+  border-radius: 10px;
   margin-left:auto;
   padding: 0;
-  border-radius: 10px;
 }
 
 .profile__add-button:hover{
