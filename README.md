@@ -24,4 +24,4 @@ Mid-transition View
 Mobile View
 ![alt text](./images/demo/Mobile.png)
 
-(https://github.com/A-Mrtz/se_project_aroundtheus.git)
+(https://a-mrtz.github.io/se_project_aroundtheus/)
