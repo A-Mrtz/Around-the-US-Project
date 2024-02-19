@@ -19,7 +19,7 @@
   align-items: center;
   justify-content: space-between;
   width: 242px;
-  border-radius: 0px 0px 10px 10px;
+  border-radius: 0 0 10px 10px;
 }
 
 .card__name {
@@ -30,7 +30,7 @@
   white-space: nowrap;
   text-overflow: ellipsis;
   color: #000;
-  font-family: 'Inter', Arial, Helvetica, sans-serif, 'Noto serif', 'Times New Roman';
+  font-family: "Inter", Arial, Helvetica, sans-serif;
   font-size: 24px;
   font-style: normal;
   font-weight: 900;
@@ -46,7 +46,7 @@
   padding: 0;
 }
 
-.card__like-button:hover{
+.card__like-button:hover {
   opacity: 0.5;
   cursor: pointer;
 }
