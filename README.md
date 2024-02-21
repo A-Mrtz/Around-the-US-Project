@@ -24,6 +24,6 @@ Mid-transition View
 Mobile View
 ![alt text](./images/demo/Mobile.png)
 
-(https://a-mrtz.github.io/se_project_aroundtheus/)
+(https://a-mrtz.github.io/Around-the-US-Project/)
 
 (https://drive.google.com/file/d/1FVc2ctCeuqD8MpPlNXuNK0XlVtJ5KhwF/view?usp=sharing)
