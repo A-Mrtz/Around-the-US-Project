@@ -86,9 +86,8 @@
   cursor: pointer;
 }
 
-
-
 @media screen and (min-width: 597px) and (max-width: 895px) {
+
   .profile__info {
     width: 320px;
     margin-right: 61.5px;
